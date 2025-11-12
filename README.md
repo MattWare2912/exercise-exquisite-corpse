@@ -18,3 +18,8 @@ Dans cette histoire, vous incarnerez un chat. Vous aurez la possibilité de fair
 
 
 "Invente la suite de l'histoire" 
+
+Le rouchat, car c'est ainsi qu'il le nomme, se dirigeat donc vers le café.
+
+Se faufilant, filant, entre les fumées et les féroces molosses du coin.
+
