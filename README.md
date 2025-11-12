@@ -9,7 +9,7 @@ Dans cette histoire, vous incarnerez un chat. Vous aurez la possibilité de fair
 
 <strong> Inscrit ta réponse ici : #...# 
 
-# Maintenant que tu as choisis ta couleur, tu te retoruve dans un endroit que tu ne reconnais pas...Deux chemins possibles :
+# Maintenant que tu as choisis ta couleur, tu te retrouves dans un endroit que tu ne reconnais pas...Deux chemins possibles :
 
  * Une petite cabane au bout du premier chemin.
  * Un café au bout du deuxième chemin.
