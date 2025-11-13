@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 #exercice cadavre excquis
 =======
 # l'histoire du chat magique
@@ -32,7 +32,7 @@ Se faufilant, filant, entre les fumées et les féroces molosses du coin.
  Le héros court à travers les marécages, chaque pas aspiré par la boue, chaque souffle plus court. 
  Derrière lui, les aboiements se transforment en hurlements, comme si la nuit elle-même voulait le dévorer.
 
-# Le café des Ombres
+## Le café des Ombres
 
 Essoufflé, le rouchat pousse la porte du café.
 À l’intérieur, une lumière vacillante danse sur les murs couverts de miroirs ternis.
@@ -49,7 +49,7 @@ La silhouette s’avance, dépose une tasse fumante devant lui et murmure :
 
 "Ma bourse n'a aucun rapport avec ma couleur" répondit le Rouchat avant de rétorquer de plus belle 
 "Envoie moi ta meilleure boisson ainsi que le nom et la position du Roi Molosse"
->>>>>>> development
-# La réponse du tenancier
+
+## La réponse du tenancier
 Voici une GUEUZE! La meilleure boisson que tu trouveras dans ce monde; Elle t'est servie par le ROI lui même.
 J'attends de toi une révérence digne de ce nom.
