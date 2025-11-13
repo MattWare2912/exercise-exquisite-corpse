@@ -42,5 +42,7 @@ Sur le comptoir, une pancarte gravée :
 Le rouchat s’assoit, le souffle court.
 La silhouette s’avance, dépose une tasse fumante devant lui et murmure :
 
-“Alors, voyageur… es-tu prêt à payer le prix de ta couleur ?”
+“Alors, voyageur… es-tu prêt à payer le prix de ta couleur"
 
+"Ma bourse n'a aucun rapport avec ma couleur" répondit le Rouchat avant de rétorquer de plus belle 
+"Envoie moi ta meilleure boisson ainsi que le nom et la position du Roi Molosse"
