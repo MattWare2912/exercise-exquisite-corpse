@@ -50,3 +50,6 @@ La silhouette s’avance, dépose une tasse fumante devant lui et murmure :
 "Ma bourse n'a aucun rapport avec ma couleur" répondit le Rouchat avant de rétorquer de plus belle 
 "Envoie moi ta meilleure boisson ainsi que le nom et la position du Roi Molosse"
 >>>>>>> development
+# La réponse du tenancier
+Voici une GUEUZE! La meilleure boisson que tu trouveras dans ce monde; Elle t'est servie par le ROI lui même.
+J'attends de toi une révérence digne de ce nom.
